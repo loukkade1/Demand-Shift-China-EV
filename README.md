@@ -36,13 +36,13 @@ This project uses a cleaned and transformed version (`Analysis_china_automobile.
 
 ## Methodology
 The analysis applies a **Difference-in-Differences (DiD)** model:
-
+$$
 \[
 Y_{it} = \beta_0 + \beta_1 EV_i + \beta_2 Post_t + \beta_3 (EV_i \times Post_t) + \epsilon_{it}
 \]
-
+$$
 Where:
-- \(Y_{it}\): monthly units sold for vehicle type *i* at time *t*  
+- $$\(Y_{it}\)$$: monthly units sold for vehicle type *i* at time *t*  
 - \(EV_i\): 1 if electric vehicle, 0 if gasoline  
 - \(Post_t\): 1 for months after April 2020  
 - \(EV_i \times Post_t\): interaction term capturing the treatment effect  
