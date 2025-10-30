@@ -32,8 +32,6 @@ This project uses a cleaned and transformed version (`Analysis_china_automobile.
 - Monthly aggregation was applied.  
 - A binary variable `post_policy` was defined for months after April 2020.
 
-Full preprocessing details are available in [`data/README.md`](data/README.md).
-
 ---
 
 ## Methodology
@@ -60,3 +58,16 @@ The coefficient \( \beta_3 \) measures the causal impact of the policy.
 - Results confirm a **policy-driven demand shift** from ICE to EVs, even under COVID-induced economic uncertainty.
 
 ---
+
+## Citation & License
+Dataset: *China Automobile Monthly Sales Data (2018–2024)* by Felix Zhao  
+Released under the [MIT License](https://opensource.org/licenses/MIT).  
+© 2013 Mark Otto, © 2017 Andrew Fong. Used under MIT terms.  
+
+This repository and analysis are for educational and research purposes only.
+
+---
+
+## Author
+**Sunicha Mahamad**  
+MSc Business Analytics & Technology Management, Concordia University (Montréal)
