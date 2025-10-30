@@ -47,7 +47,7 @@ Where:
 - $$\(Post_t\)$$: 1 for months after April 2020  
 - $$\(EV_i \times Post_t\)$$: interaction term capturing the treatment effect  
 
-The coefficient \( \beta_3 \) measures the causal impact of the policy.
+The coefficient $$\( \beta_3 \)$$ measures the causal impact of the policy.
 
 ---
 
