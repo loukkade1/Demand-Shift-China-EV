@@ -14,8 +14,8 @@ Using a **Difference-in-Differences (DiD)** framework, the study evaluates how t
 How did China’s extension of the EV subsidy policy in April 2020 affect electric vehicle demand compared to gasoline vehicles?
 
 **Hypotheses:**  
-1. Extending pro-EV policies positively affected EV sales despite the pandemic’s economic impact.  
-2. There is a substitution effect where EV demand rises while gasoline demand declines, indicating a structural shift.
+H1: Extending pro-EV policies positively affected EV sales despite COVID effect 
+H2: We expect the substitution of ICE cars by EV, reflecting a shift in structural demand
 
 ---
 
