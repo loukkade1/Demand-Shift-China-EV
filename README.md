@@ -15,6 +15,7 @@ How did China’s extension of the EV subsidy policy in April 2020 affect electr
 
 **Hypotheses:**  
 H1: Extending pro-EV policies positively affected EV sales despite COVID effect 
+
 H2: We expect the substitution of ICE cars by EV, reflecting a shift in structural demand
 
 ---
